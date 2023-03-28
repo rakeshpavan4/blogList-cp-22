@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.title-date-container {
+  display: flex;
+  justify-content: space-between;
+}
+.item-date {
+  color: #9aa5b1;
+}
+.item-description {
+  color: #9aa5b1;
+}
